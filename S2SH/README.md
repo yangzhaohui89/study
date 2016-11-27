@@ -19,9 +19,6 @@ Struts2,Hibernate,Spring三大框架的整合总是很麻烦，在此提供一�
 
 8.包含了带验证码的登录功能以及登录验证的拦截器；
 
-9.整个包可直接导入Myeclipse继续编辑，war文件可直接放入tomcat部署。
-
-10.要使用SpringMVC+Mybatis+spring的整合，参见[https://github.com/shenzhanwang/SSM](https://github.com/shenzhanwang/SSM)  
 
 效果图：
  ![输入图片说明](http://git.oschina.net/uploads/images/2016/1115/181029_d88e1cee_1110335.png "在这里输入图片标题")
